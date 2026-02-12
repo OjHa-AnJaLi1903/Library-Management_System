@@ -76,5 +76,4 @@ Library-Management_System/
 ## ✍️ Author
 
 **Anjali Ojha**  
-B.Tech CSE | Full Stack Developer  
-[GitHub Profile](https://github.com/OjHa-AnJaLi1903)
+B.Tech CSE | Full Stack Developer
